@@ -1,7 +1,0 @@
-D:\Source\Repos\Tarea_Semana_4\Tarea_Semana_4\obj\Debug\Tarea_Semana_4.csproj.AssemblyReference.cache
-D:\Source\Repos\Tarea_Semana_4\Tarea_Semana_4\obj\Debug\Tarea_Semana_4.csproj.CoreCompileInputs.cache
-D:\Source\Repos\Tarea_Semana_4\Tarea_Semana_4\bin\Debug\Tarea_Semana_4.exe.config
-D:\Source\Repos\Tarea_Semana_4\Tarea_Semana_4\bin\Debug\Tarea_Semana_4.exe
-D:\Source\Repos\Tarea_Semana_4\Tarea_Semana_4\bin\Debug\Tarea_Semana_4.pdb
-D:\Source\Repos\Tarea_Semana_4\Tarea_Semana_4\obj\Debug\Tarea_Semana_4.exe
-D:\Source\Repos\Tarea_Semana_4\Tarea_Semana_4\obj\Debug\Tarea_Semana_4.pdb
